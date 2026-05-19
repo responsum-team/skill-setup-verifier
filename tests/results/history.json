@@ -1,0 +1,58 @@
+{
+  "history": [
+    {
+      "reviewed_at": "2026-05-19T09:34:03Z",
+      "date": "2026-05-19",
+      "run_slug": "2026-05-19T093403Z",
+      "skill_version": "0b3ce01",
+      "unit_tests": { "passed": 5, "total": 9, "pass_rate": 0.56 },
+      "assertions": { "passed": 21, "total": 26, "pass_rate": 0.81 },
+      "categories": { "passed": 9, "total": 13, "pass_rate": 0.69 },
+      "verdict": "FAIL",
+      "high_failures": ["Separation of duties observed (skill author is not also the sole reviewer)"],
+      "review_file": "runs/2026-05-19T093403Z/review-setup-verifier-2026-05-19T093403Z.md",
+      "timing_file": "runs/2026-05-19T093403Z/timing.json",
+      "benchmark_md": "runs/2026-05-19T093403Z/benchmark-setup-verifier-2026-05-19T093403Z.md",
+      "benchmark_html": null,
+      "snapshot_dir": "snapshots/setup-verifier/2026-05-19T093403Z",
+      "comparison_file": null,
+      "readme": null
+    },
+    {
+      "reviewed_at": "2026-05-19T09:45:49Z",
+      "date": "2026-05-19",
+      "run_slug": "2026-05-19T094549Z",
+      "skill_version": "acad3a6",
+      "unit_tests": { "passed": 6, "total": 9, "pass_rate": 0.67 },
+      "assertions": { "passed": 19, "total": 26, "pass_rate": 0.73 },
+      "categories": { "passed": 12, "total": 13, "pass_rate": 0.92 },
+      "verdict": "FAIL",
+      "high_failures": ["Separation of duties observed (skill author is not also the sole reviewer)"],
+      "review_file": "runs/2026-05-19T094549Z/review-setup-verifier-2026-05-19T094549Z.md",
+      "timing_file": "runs/2026-05-19T094549Z/timing.json",
+      "benchmark_md": "runs/2026-05-19T094549Z/benchmark-setup-verifier-2026-05-19T094549Z.md",
+      "benchmark_html": null,
+      "snapshot_dir": "snapshots/setup-verifier/2026-05-19T094549Z",
+      "comparison_file": "runs/2026-05-19T094549Z/comparison/comparison-summary.json",
+      "readme": null
+    },
+    {
+      "reviewed_at": "2026-05-19T09:53:50Z",
+      "date": "2026-05-19",
+      "run_slug": "2026-05-19T095350Z",
+      "skill_version": "1163067",
+      "unit_tests": { "passed": 9, "total": 9, "pass_rate": 1.00 },
+      "assertions": { "passed": 26, "total": 26, "pass_rate": 1.00 },
+      "categories": { "passed": 12, "total": 13, "pass_rate": 0.92 },
+      "verdict": "FAIL",
+      "high_failures": ["Separation of duties observed (skill author is not also the sole reviewer)"],
+      "review_file": "runs/2026-05-19T095350Z/review-setup-verifier-2026-05-19T095350Z.md",
+      "timing_file": "runs/2026-05-19T095350Z/timing.json",
+      "benchmark_md": "runs/2026-05-19T095350Z/benchmark-setup-verifier-2026-05-19T095350Z.md",
+      "benchmark_html": null,
+      "snapshot_dir": "snapshots/setup-verifier/2026-05-19T095350Z",
+      "comparison_file": "runs/2026-05-19T095350Z/comparison/comparison-summary.json",
+      "readme": null
+    }
+  ]
+}
